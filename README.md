@@ -5,8 +5,6 @@
 - The terminal prompts the user to enter the type of the job and the city. The terminal displays the available jobs from the site. The user then can see the details of the particular job.
 
 
-```
-
 Get into the repository and execute the following:
 
 ```
